@@ -1,6 +1,5 @@
 # 📖 01 Navigation & Basic Commands
 ## 📚 Resources
-
 - https://labex.io/linuxjourney
 
 # 🚀 Quick Start with Linux

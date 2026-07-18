@@ -2,8 +2,6 @@
 ## 📚 Resources
 - https://labex.io/linuxjourney
 
-
-
 # 📑 Table of Contents
 - [⚡ Quick Index](#-quick-index)
 - [👤 Ownership](#-ownership)
