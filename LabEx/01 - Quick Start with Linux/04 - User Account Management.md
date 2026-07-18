@@ -34,6 +34,8 @@
 | `sudo grep -w 'joker' /etc/passwd` | Verify that the user exists. |
 | `id joker` | Display the user ID, primary group, and additional groups. |
 
+# Create a user named batman with a home directory at /home/gotham:
+|sudo useradd -m -d /home/gotham batman |   The -m option ensures each user's home directory is created. The -d /home/gotham option sets batman's home directory path explicitly.
 ---
 
 ## 🔑 Passwords
